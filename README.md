@@ -1,6 +1,6 @@
-# Linux Commands Reference
+#🐧
 
-My personal Linux command cheat sheet.
+My personal Linux command notes.
 
-This repository contains Linux commands that I learn during my AWS and Linux studies. The goal is to have a quick reference that I can use anytime without searching through documentation or previous chats.
+This repository contains Linux commands I have learned. I use it as a quick reference instead of searching the internet or old chats.
 
